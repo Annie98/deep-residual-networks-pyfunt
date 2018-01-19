@@ -1,0 +1,5 @@
+numpy >= 1.7.1
+pydatset
+git+git://github.com/dnlcrl/PyDatSet.git
+pyfunt >= 0.1b
+git+git://github.com/dnlcrl/PyFunt.git
